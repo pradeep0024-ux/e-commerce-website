@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-website",
+  "version": "1.0.0",
+  "description": "e-commerce-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep0024-ux/e-commerce-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep0024-ux/e-commerce-website/issues"
+  },
+  "homepage": "https://github.com/pradeep0024-ux/e-commerce-website#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.1",
+    "nodemon": "^3.0.1"
+  }
+}
